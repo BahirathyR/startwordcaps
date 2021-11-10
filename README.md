@@ -4,7 +4,7 @@ Get sentence all word start letter to be convert uppercase.
 
 # Installation
 
-`npm i startwordcaps --save
+`npm i startwordcapsy --save
 
 
 Then...
