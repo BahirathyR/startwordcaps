@@ -9,7 +9,7 @@ Get sentence all word start letter to be convert uppercase.
 
 Then...
 ```
-import {startwordcaps} from 'startwordcaps';
+import {startwordcaps} from 'startwordcapsy';
 
    var str = "welcome to all";
 
@@ -17,6 +17,15 @@ startwordcaps(str)
 
 
 ```
+Then...
+
+## Package.json //Add to package.json
+{
+      "type": "module",
+
+}
+
+
 ## options
 startwordcaps supports 1 option
 * *strtype*- _toUpperCase/toLowerCase_(Default to toLowerCase)
