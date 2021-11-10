@@ -17,5 +17,5 @@ extractstrcaps({
 
 ```
 ## options
-extractstrcaps supports 1 option
+startwordcaps supports 1 option
 * *strtype*- _toUpperCase/toLowerCase_(Default to toLowerCase)
