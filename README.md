@@ -13,7 +13,7 @@ import {startwordcaps} from 'startwordcaps';
 
    var str = "welcome to all";
 
-wordcaps(str)
+startwordcaps(str)
 
 
 ```
