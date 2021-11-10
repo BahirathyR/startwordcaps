@@ -4,12 +4,12 @@ Get sentence all word start letter to be convert uppercase.
 
 # Installation
 
-`npm i extractstrcaps --save
+`npm i startwordcaps --save
 
 
 Then...
 ```
-import {extractstrcaps} from 'extractstrcaps';
+import {startwordcaps} from 'startwordcaps';
 
 extractstrcaps({
     strtype:'toUpperCase'
