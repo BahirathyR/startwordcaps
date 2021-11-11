@@ -17,10 +17,6 @@ startwordcaps(str)
 
 
 ```
-Then...
-
-
-
 
 ## options
 startwordcaps supports 1 option
