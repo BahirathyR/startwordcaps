@@ -19,11 +19,7 @@ startwordcaps(str)
 ```
 Then...
 
-## Package.json //Add to package.json
-{
-      "type": "module",
 
-}
 
 
 ## options
