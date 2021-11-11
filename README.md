@@ -13,11 +13,14 @@ import {startwordcapsy} from 'startwordcapsy';
 
    var str = "welcome to all";
 
-startwordcaps(str)
-
+startwordcapsy(str)
 
 ```
+## Package.Json //Add Module to Package.Json 
+
+"type":"module"
 
 ## options
-startwordcaps supports 1 option
+
+startwordcapsy supports 1 option
 * *strtype*- _toUpperCase/toLowerCase_(Default to toLowerCase)
