@@ -1,6 +1,4 @@
-var str = "welcome to all";
 
-startwordcapsy(str)
 
 function startwordcapsy(str){
 
