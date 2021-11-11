@@ -1,11 +1,11 @@
 var str = "welcome to all";
 
-startwordcaps(str)
+startwordcapsy(str)
 
-function startwordcaps(str){
+function startwordcapsy(str){
 
 console.log(str.toLowerCase().split(' ').map(item=>item[0].toUpperCase()+item.substring(1)).join(' '))
 
 }
 
-module.exports.startwordcaps=startwordcaps;
+module.exports.startwordcapsy=startwordcapsy;

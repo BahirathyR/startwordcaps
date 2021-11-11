@@ -9,7 +9,7 @@ Get sentence all word start letter to be convert uppercase.
 
 Then...
 ```
-import {startwordcaps} from 'startwordcaps';
+import {startwordcapsy} from 'startwordcapsy';
 
    var str = "welcome to all";
 
