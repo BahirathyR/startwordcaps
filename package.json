@@ -1,6 +1,6 @@
 {
-  "name": "startwordcapsy",
-  "version": "1.0.6",
+  "name": "startwordcaps",
+  "version": "1.0.0",
   "description": "Get sentence all word start letter to be convert uppercase.",
   "main": "index.js",
   "type":"module",
